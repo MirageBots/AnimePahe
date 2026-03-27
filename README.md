@@ -1,8 +1,8 @@
-# ╔══════════════════════════════════════╗
+# ╔════════════════════════════════════╗
 
-# ║    AUTO ANIME PAHE — ADVANCED BOT    ║
+# ║   AUTO ANIME PAHE — ADVANCED BOT   ║
 
-# ╚══════════════════════════════════════╝
+# ╚════════════════════════════════════╝
 
 <p align="center">
   <b>FAST • SCALABLE • AUTOMATED • CLOUD READY</b>
